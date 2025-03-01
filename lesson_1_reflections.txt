@@ -1,0 +1,57 @@
+How did viewing a diff between two versions help you spot the bug?
+
+	- Eliminating unchanged content saves time and mental energy 
+	- directly compared changes makes it easier to spot mistakes
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+How could having easy access to the entire history of a file
+make you a more efficient programmer in the long term?
+
+	- less time consuming to do rollbacks for changes
+	- easily find made mistakes
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+What do you think are the pros and cons of manually choosing when to
+create a commit, like you do in Git, svs having versions automatically
+saved, like Google Docs does?
+
+	- Significantly clearer structuring of change tracking
+	- Versioning is earmarked instead of random as with Google Docs
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+Why do you think some version control systems, like Git, allow saving
+multiple files in one commit, while others, like Google Docs, treat each
+file separately?
+
+	- Depends on the intention of the version control system.
+	- Google Docs seems to be focused on single files instead 
+	  of projects
+	- Git seems to be focused on complex projects (multiple files)
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+How can you use the commands git log and git diff to view the history of files?
+
+	- using git log to get an overview of the history
+	- using git diff to see the details that changed
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+How might using version control make you more confident to make changes that 
+could break something?
+
+	Since it is easy to switch between the different versions, I can easily
+	go back to my previous Version if I break something.
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	Use it for my next learning projects to keep track of my notes for
+	each lesson, eventually upcoming short coding notes. etc
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
