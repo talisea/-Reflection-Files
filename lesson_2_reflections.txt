@@ -1,0 +1,44 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	git initcreates a new repository. The new hidden directory .git will
+	store the history of the files that are tracked in this repository.
+
+	It's needed to either start a new project with version controll or
+	to convert an existing, unversioned project to a Git repository.
+
+*+*+*+*+*+*+*+**+*+*+*+*+*+*+**+*+*+*+*+*+*+**+*+*+*+*+*+*+**+*+*+*+*+*+*+*+*+*+*+*
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+	The staging area is like a temporal directory to store the files with
+	the made changes for the next commit. The working directory and the
+	repository may have more files than the ones waiting for their submit
+	in the staging area.
+
+	It offers the value to controll which files are included into a commit,
+	what makes it easier to ensure 1 commit per logical change.
+
+*+*+*+*+*+*+*+**+*+*+*+*+*+*+**+*+*+*+*+*+*+**+*+*+*+*+*+*+**+*+*+*+*+*+*+*+*+*+*+*
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+*+*+*+*+*+*+*+**+*+*+*+*+*+*+**+*+*+*+*+*+*+**+*+*+*+*+*+*+**+*+*+*+*+*+*+*+*+*+*+*
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+*+*+*+*+*+*+*+**+*+*+*+*+*+*+**+*+*+*+*+*+*+**+*+*+*+*+*+*+**+*+*+*+*+*+*+*+*+*+*+*
+
+How do the diagrams help you visualize the branch structure?
+
+*+*+*+*+*+*+*+**+*+*+*+*+*+*+**+*+*+*+*+*+*+**+*+*+*+*+*+*+**+*+*+*+*+*+*+*+*+*+*+*
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+*+*+*+*+*+*+*+**+*+*+*+*+*+*+**+*+*+*+*+*+*+**+*+*+*+*+*+*+**+*+*+*+*+*+*+*+*+*+*+*
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
