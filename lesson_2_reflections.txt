@@ -37,9 +37,19 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	branches can be usefull to experiment with additional ideas in a project
+	or organise f.e. different language files while creating translated
+	versions of a project.
+	that way the main project stays clean while we can explore our experiments
+	or translations or whatever we wanted to do in the project and created the
+	branch for.
+
 *+*+*+*+*+*+*+**+*+*+*+*+*+*+**+*+*+*+*+*+*+**+*+*+*+*+*+*+**+*+*+*+*+*+*+*+*+*+*+*
 
 How do the diagrams help you visualize the branch structure?
+
+	they give an easy to understand overview regarding the branch structure,
+	history and merges.
 
 *+*+*+*+*+*+*+**+*+*+*+*+*+*+**+*+*+*+*+*+*+**+*+*+*+*+*+*+**+*+*+*+*+*+*+*+*+*+*+*
 
