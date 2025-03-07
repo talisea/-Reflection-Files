@@ -56,6 +56,14 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	Merging two branches combines the changes that have been made and
+	creates a new commit at the tip of the currently checked out branch.
+	Therefor the currently checked out branch should be one of the branches
+	you want to merge.
+
+	The way it is shown in the diagram visualizes combining of one
+	branch into another in a clear and easy to understand way.
+
 *+*+*+*+*+*+*+**+*+*+*+*+*+*+**+*+*+*+*+*+*+**+*+*+*+*+*+*+**+*+*+*+*+*+*+*+*+*+*+*
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
