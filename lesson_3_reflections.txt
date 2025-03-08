@@ -1,3 +1,9 @@
 When would you want to create a remote repository rather than keeping
 all your work local?
 
+  working on the repo from different devices
+  working on the repo in collaboration with other people
+  want to share the project with the open source community
+
+*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
+
