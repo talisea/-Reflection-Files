@@ -1,6 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-	git initcreates a new repository. The new hidden directory .git will
+	git init creates a new repository. The new hidden directory .git will
 	store the history of the files that are tracked in this repository.
 
 	It's needed to either start a new project with version controll or
